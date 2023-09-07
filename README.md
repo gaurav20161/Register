@@ -36,7 +36,7 @@ This project was developed using a robust set of tools and technologies to ensur
 
 # Key Features:
 
-User Registration: Users can create accounts by providing essential information such as name, email, and password.
+- **User Registration**: Users can register using essential information such as name, email, password and photo.
 
 Event/Course/Membership Registration: Users can browse available events, courses, or membership options, select their preferred choices, and complete the registration process.
 
