@@ -1,7 +1,7 @@
 # Register
 This is a web-based registration application developed using Java Servlets, HTML, CSS, MaterializeCSS framework, jQuery, AJAX, MySQL, hosted on Apache Tomcat Server
 
-##Key Features:
+## Key Features:
 
 User Registration: Users can create accounts by providing essential information such as name, email, and password.
 
