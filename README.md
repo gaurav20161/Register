@@ -33,21 +33,8 @@ This project was developed using a robust set of tools and technologies to ensur
 
 - **GitHub**: GitHub is utilized for version control, code collaboration, and issue tracking. It provides a central platform for developers to work together, manage code changes, and track project progress.
 
-By using this robust development environment, we aim to create a well-structured, responsive, and efficient online registration application. The combination of these tools and technologies enables us to deliver a user-friendly and feature-rich system.
 
-Please refer to the project documentation and setup instructions for more details on how to run and contribute to this project.
-
-
-Eclipse IDE for Java Developers
-Java Servlets for server-side logic
-HTML and CSS for frontend design
-MaterializeCSS framework for responsive design
-jQuery for client-side scripting
-AJAX for asynchronous data exchange
-MySQL or PostgreSQL for database management
-GitHub for version control and collaboration
-
-## Key Features:
+# Key Features:
 
 User Registration: Users can create accounts by providing essential information such as name, email, and password.
 
