@@ -46,6 +46,8 @@ This project was developed using a robust set of tools and technologies to ensur
 
 - **GitHub Repository**: The project is hosted on GitHub, allowing for collaborative development, version control, and issue tracking.
 
+# Snapshots:
+- **App UI**:
 ![App UI](https://github.com/gaurav20161/Register/blob/master/3.PNG?raw=true)
 
 
