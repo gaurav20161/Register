@@ -50,6 +50,9 @@ This project was developed using a robust set of tools and technologies to ensur
 - **App UI**:
 ![App UI](https://github.com/gaurav20161/Register/blob/master/3.PNG?raw=true)
 
+- **Data Submitted Successfully**:
+![App UI1](https://github.com/gaurav20161/Register/blob/master/1.PNG?raw=true)
 
-
+- **Data Submitted to MySQL database**:
+![App UI2](https://github.com/gaurav20161/Register/blob/master/2.PNG?raw=true)
 
