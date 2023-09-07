@@ -42,7 +42,7 @@ This project was developed using a robust set of tools and technologies to ensur
 
 - **AJAX Requests**: AJAX is employed for asynchronous data retrieval and submission, providing a seamless user experience.
 
-Database Integration: User and registration data are stored in a relational database (e.g., MySQL or PostgreSQL) using JDBC for data persistence.
+- **Database Integration**: User and registration data are stored in a relational database (e.g., MySQL or PostgreSQL) using JDBC for data persistence.
 
-GitHub Repository: The project is hosted on GitHub, allowing for collaborative development, version control, and issue tracking.
+- **GitHub Repository**: The project is hosted on GitHub, allowing for collaborative development, version control, and issue tracking.
 
