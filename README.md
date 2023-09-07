@@ -47,12 +47,12 @@ This project was developed using a robust set of tools and technologies to ensur
 - **GitHub Repository**: The project is hosted on GitHub, allowing for collaborative development, version control, and issue tracking.
 
 # Snapshots:
-- **App UI**:
+- **App UI (Front End)**:
 ![App UI](https://github.com/gaurav20161/Register/blob/master/3.PNG?raw=true)
 
-- **Data Submitted Successfully**:
+- **Data Submitted Successfully (Front End)**:
 ![App UI1](https://github.com/gaurav20161/Register/blob/master/1.PNG?raw=true)
 
-- **Data Submitted to MySQL database**:
+- **Data Submitted to MySQL database (Back End)**:
 ![App UI2](https://github.com/gaurav20161/Register/blob/master/2.PNG?raw=true)
 
