@@ -34,12 +34,12 @@
             <form action="Register" method="post" id="myform">
             
              <input type="text"  name="user_name"  placeholder="Enter your name"/>
-             <input type="text"  name="user_password"  placeholder="Enter your password"/>
+             <input type="text"  name="user_password"  placeholder="Enter your Course"/>
              <input type="text"  name="user_email"  placeholder="Enter your email-id"/>
              
                 <div class="file-field input-field">
                   <div class="btn">
-                    <span>File</span> 
+                    <span>Photo</span> 
                     <input  name="image" type="file">
                   </div>
                   <div class="file-path-wrapper">

@@ -53,11 +53,11 @@ public class Register extends HttpServlet {
 			Thread.sleep(3000);	
 			
 			Class.forName("com.mysql.cj.jdbc.Driver");
-			Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/youtube", "root", "N@saisro1640");
+			Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/studentinfo", "root", "N@saisro1640");
 			       
 			
 									       
-			String s1 = "INSERT INTO information(name, password, email, imageName) VALUE(?,?,?,?);";
+			String s1 = "INSERT INTO StudnentInformation(name, password, email, photo) VALUE(?,?,?,?);";
 			
 			PreparedStatement stmt = con.prepareStatement(s1);
 			stmt.setString(1, name);
