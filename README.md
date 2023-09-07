@@ -38,15 +38,9 @@ This project was developed using a robust set of tools and technologies to ensur
 
 - **User Registration**: Users can register using essential information such as name, email, password and photo.
 
-Event/Course/Membership Registration: Users can browse available events, courses, or membership options, select their preferred choices, and complete the registration process.
+- **Responsive Design**: The MaterializeCSS framework is utilized to create a responsive and visually appealing user interface that works well on various devices.
 
-User Authentication: The application ensures secure access by implementing user authentication using Java Servlets and session management.
-
-Real-time Validation: Input fields are validated in real-time using jQuery to ensure data accuracy and completeness.
-
-Responsive Design: The MaterializeCSS framework is utilized to create a responsive and visually appealing user interface that works well on various devices.
-
-AJAX Requests: AJAX is employed for asynchronous data retrieval and submission, providing a seamless user experience.
+- **AJAX Requests**: AJAX is employed for asynchronous data retrieval and submission, providing a seamless user experience.
 
 Database Integration: User and registration data are stored in a relational database (e.g., MySQL or PostgreSQL) using JDBC for data persistence.
 
