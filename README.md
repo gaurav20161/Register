@@ -27,7 +27,7 @@ This project was developed using a robust set of tools and technologies to ensur
 
 ## Database Management
 
-- **MySQL or PostgreSQL**: The project leverages either MySQL or PostgreSQL for database management. These relational database systems store user data, registration information, and other relevant data.
+- **MySQL**: The project leverages  MySQL for database management.
 
 ## Version Control and Collaboration
 
